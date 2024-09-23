@@ -1,1 +1,4 @@
-test
+horizon graphs
+stem-and-leaf plots
+parallel coordinates
+graduated symbol maps
